@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+﻿# Praktikum React
+Nama  : Fatriya Ibnu Ash shidiqqi <br>
+Kelas : TI 3C <br>
+NIM   : 2241720138
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Persiapan Praktikum
 
-## Available Scripts
+   ![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.001.png)
 
-In the project directory, you can run:
+   ![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.002.png)
 
-### `npm start`
+1. Membuat Komponen React
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+   ![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.003.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+1. Menggunakan jsx untuk membuat komponen dinamis
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.004.png)
 
-### `npm run build`
+1. Menggunakan props untuk mengirim data
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.005.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Menggunakan state untuk mengelola data
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.006.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Tugas Praktikum
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Buat komponen baru bernama TodoList yang menampilkan daftar tugas (todo list). Gunakan state untuk mengelola daftar tugas dan props untuk mengirim data tugas ke komponen anak.
+1. Tambahkan fitur untuk menambahkan tugas baru ke dalam daftar menggunakan form input.
+1. Implementasikan fitur untuk menghapus tugas dari daftar.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](Aspose.Words.aa4225f3-04d8-4f29-80a2-1fd91d383477.007.png)
